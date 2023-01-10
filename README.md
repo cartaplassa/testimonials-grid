@@ -41,7 +41,7 @@ placeholder
 ## My process
 
 1) Built a simple mockup with borders
-2) Tuned the behavior of mobile and desktop versions of cards with flexbox
+2) Tuned the behavior of mobile and desktop versions of cards with CSS grid
 3) Tuned the colors and styling, added custom font
 
 ### Built with
