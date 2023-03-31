@@ -27,16 +27,17 @@ Users should be able to:
 
 #### Mobile version:
 
-placeholder
+![screenshot-2023-03-31-070930](https://user-images.githubusercontent.com/99555654/229020747-7490da89-22d6-4ffb-bc16-863440ce0b9c.jpg)
 
 #### Desktop version:
 
-placeholder
+![screenshot-2023-03-31-070920](https://user-images.githubusercontent.com/99555654/229020729-74aa8b7e-c99c-4e7d-95bf-c4423eeb32a0.jpg)
+
 
 ### Links
 
-- [Solution URL](placeholder) | 
-[Live Site URL](placeholder)
+- [Solution URL](https://github.com/zarni-ein/testimonials-grid) | 
+[Live Site URL](https://zarni-ein.github.io/testimonials-grid/)
 
 ## My process
 
